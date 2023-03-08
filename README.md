@@ -55,7 +55,7 @@ b) Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mai
 
 c) Explique como chegou no resultado.
 
-> Ao se cruzarem na rodovia, os dois veículos estaram à mesma distância da cidade de Ribeirão Preto.
+> Ao se cruzarem na rodovia, os dois veículos estarão à mesma distância da cidade de Ribeirão Preto.
 
 **Calculando em que ponto da rodovia eles irão se encontrar:**
 
